@@ -4,6 +4,7 @@ public static double min(double[]list)
     for (int i=1; i<list.length;i++){
         if (min>list[i])
         min=list[i];
+        System.err.println("mi");
     }
     return min;
     }
