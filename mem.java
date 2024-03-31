@@ -9,3 +9,4 @@ public static double min(double[]list)
     return min;
     }
 
+dsf
